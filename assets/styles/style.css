@@ -1,5 +1,5 @@
 :root {
-  --page-background: rgb(254,253,251);
+  --page-background: #FFF738;
   --just-white: #fff;
 }
 *{
@@ -67,7 +67,7 @@ html {
   justify-content: center;
   align-items: center;
   margin: 10px;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 
 .footer-container h3 {
@@ -85,6 +85,17 @@ html {
   margin-top: 10px;
 }
 
+.maps-button {
+  background-color: #45D447;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  border-radius: 10px;
+  font-size: 2rem;
+}
+.maps-button:hover {
+  color: black;
+}
 
 
 
